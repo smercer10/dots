@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!.zshrc
+
+!.config/
+!.config/doom/
+!.config/doom/*
+!.config/git/
+!.config/git/config

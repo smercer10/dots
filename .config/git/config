@@ -1,0 +1,9 @@
+[user]
+	name = Sam Mercer
+	email = 130914459+smercer10@users.noreply.github.com
+[init]
+	defaultBranch = main
+[commit]
+	gpgsign = true
+[credential]
+	helper = store
