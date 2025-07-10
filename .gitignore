@@ -8,3 +8,4 @@
 !.config/doom/*
 !.config/git/
 !.config/git/config
+!.config/install.sh
