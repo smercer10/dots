@@ -104,5 +104,6 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias cd="z"
+alias lg="lazygit"
 
 export PATH=$HOME/.config/emacs/bin:$PATH
